@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Sara 👋
 
 I previously had a career as a professional dancer and educator, before changing into full-stack development (Big change I know 😉). I have recently completed a training program through _nology where I learnt a variety of languages and frameworks in preparation for a software engineer role with a partnered company. Currently I am working on a few personal full-stack projects and developing my current skills. 
 
-Social Links: 
+#### Social Links: 
 [![LinkedIn](https://img.shields.io/badge/Sara--Moad-grey?logo=linkedin&logoColor=0A66C2&labelColor=lightgrey)](https://www.linkedin.com/in/sara-moad-39b3b3255/) 
 
-- 🔭 I’m currently working on an Employee Creator Full-Stack Application and a bingo-card Generator application for Girls Programming Network's morning games.  
+🔭 I’m currently working on an Employee Creator Full-Stack Application and a bingo-card Generator application for Girls Programming Network's morning games.  
 
   
 ## I've got skills in...
